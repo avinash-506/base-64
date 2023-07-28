@@ -19,7 +19,7 @@ function App() {
   return (
     <div className="App container ">
       <div>
-        <p className="display-2">Base-64 </p>
+        <p className="display-2">Base64 </p>
       </div>
       <div className="d-flex justify-content-center mx-auto p-2 pt-4">
         <div className="text-center pe-3">
